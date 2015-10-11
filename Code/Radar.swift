@@ -1,3 +1,4 @@
+import Decodable
 import Foundation
 
 public struct Radar {
