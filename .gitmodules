@@ -1,0 +1,3 @@
+[submodule "Vendor/Decodable"]
+	path = Vendor/Decodable
+	url = https://github.com/Anviking/Decodable.git
